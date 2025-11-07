@@ -1,3 +1,6 @@
+#  Drought Prediction and Spatial Visualization — *Bruna River Generalization Example*  
+**Author:** Elsaidy, Abedulla (2025)  
+**Last Updated:** November 2025  
 # RF
 import numpy as np
 import pandas as pd
